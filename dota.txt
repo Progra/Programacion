@@ -2,3 +2,11 @@ ola ke ase?
 system.out
 
 hola Belgica
+
+HACER ESTO ANTES DE EMPEZAR A PROGRAMAR
+
+Para sincornizar el github
+
+1.- van a su repositorio, click derecho, seleccionar opens a shell here
+2.- escriben, git pull origin master y le dan enter
+
