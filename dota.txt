@@ -10,3 +10,7 @@ Para sincornizar el github
 1.- van a su repositorio, click derecho, seleccionar opens a shell here
 2.- escriben, git pull origin master y le dan enter
 
+
+QUEDA
+
+rENZO ES GAY
